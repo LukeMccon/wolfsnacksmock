@@ -1,4 +1,4 @@
-var user = require('../user.json');
+var user = require('../admin.json');
 const express = require("express");
 const router = express.Router();
 const route_prefix = '/auth/';
