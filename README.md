@@ -23,6 +23,7 @@ Run the Node server
 
 `npm start`
 
+Test your end points!
 
 
 
