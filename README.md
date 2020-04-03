@@ -13,13 +13,17 @@ Install the dependencies
 
 Configure your mock user by editing
 
-`user.json`
+`admin.json`
 
+Configure the secondary user by editing
+
+`volunteer.json`
 
 Run the Node server
 
 `npm start`
 
+Test your end points!
 
 
 
